@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>ValExt.Core</RootNamespace>
+    <AssemblyName>ValExt.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
